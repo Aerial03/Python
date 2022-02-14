@@ -3,6 +3,7 @@
 **[ Python class ]**
 
 파이썬 강의 내용 필기
+Program: PyCharm
 
 ---
 + day01
