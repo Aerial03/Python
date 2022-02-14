@@ -1,6 +1,6 @@
 # 프로젝트형 AI 개발 6회차
 
-**Python class**
+**[ Python class ]**
 
 파이썬 강의 내용 필기
 
